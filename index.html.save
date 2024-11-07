@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application Cinéma Étudiant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur notre application cinéma pour étudiants</h1>
+        <p>Découvrez les films en salles et profitez de solutions adaptées pour les étudiants.</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="about.html">À propos</a></li>
+                <li><a href="challenges.html">Défis</a></li>
+                <li><a href="solutions.html">Solutions</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Pourquoi cette application ?</h2>
+            <p>Les jeunes rencontrent de nombreux défis lorsqu'ils veulent aller au cinéma. Notre application vise à résoudre ces problèmes en fournissant des informations accessibles et des solutions adaptées aux étudiants.</p>
+        </section>
+
+        <section class="features">
+            <h2>Nos caractéristiques</h2>
+            <ul>
+                <li>Informations actualisées sur les films en salles</li>
+                <li>Réductions exclusives pour étudiants</li>
+                <li>Interface simple et intuitive</li>
+                <li>Alertes pour les sorties de films</li>
+            </ul>
+        </section>
+
+        <section class="cta">
+            <h2>Rejoignez-nous !</h2>
+            <p>Ne manquez plus aucune sortie de film et bénéficiez de réductions en tant qu'étudiant ! Téléchargez notre application dès maintenant.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Application Cinéma Étudiant | Tous droits réservés</p>
+    </footer>
+</body>
+</html>
